@@ -51,11 +51,12 @@ The datasets consist of approximately 8,800 records and 18 fields, representing 
 
 ## Dashboard Preview
 
-![CRM Sales Dashboard Screenshot](./images/CRM_Sales_Dashboard.png)
+![CRM Sales Dashboard Screenshot](<img width="945" height="790" alt="image" src="https://github.com/user-attachments/assets/745c2a64-96df-402b-81b6-bddeff955b12" />
+)
 
 ---
 
-**This project showcases advanced Excel skills in data cleaning, pivot tables, interactive dashboards, and business reporting, which are essential for sales analysis and decision making.**
+**This project showcases advanced Excel skills in data preparation, pivot tables, interactive dashboards, and business reporting, which are essential for sales analysis and decision making.**
 
 ---
 
