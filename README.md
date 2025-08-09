@@ -12,12 +12,7 @@ The goal of this project is to help **Sales Managers** monitor and analyze their
 
 ## Dataset Used
 
-The project uses two datasets:
-
-- **sales_pipeline.csv**: Contains detailed information on sales opportunities, including deal stage, dates, products, and deal values.  
-- **sales_teams.csv**: Contains information about sales agents, their managers, and regional offices.
-
-The datasets consist of approximately 8,800 records and 18 fields, representing B2B sales pipeline data.
+The dataset is fully embedded within the Excel file, including sales pipeline and sales team details. This allows the dashboard to be fully functional without requiring external data files.
 
 ---
 
@@ -33,7 +28,7 @@ The datasets consist of approximately 8,800 records and 18 fields, representing 
 ## Process
 
 1. **Data Preparation:**  
-   - Imported and explored the sales pipeline and sales team datasets.  
+   - Imported and explored the sales pipeline and sales team data inside Excel.  
    - Joined sales agent information (manager and regional office) using XLOOKUP.  
    - Checked for missing values and ensured date formats were consistent.
 
@@ -51,13 +46,9 @@ The datasets consist of approximately 8,800 records and 18 fields, representing 
 
 ## Dashboard Preview
 
-![CRM Sales Dashboard Screenshot](<img width="945" height="790" alt="image" src="https://github.com/user-attachments/assets/745c2a64-96df-402b-81b6-bddeff955b12" />
-)
+![CRM Sales Dashboard Screenshot]("C:/Users/Lenovo/Downloads/CRM Sales Dashboard Screenshot.png")
+
 
 ---
 
-**This project showcases advanced Excel skills in data preparation, pivot tables, interactive dashboards, and business reporting, which are essential for sales analysis and decision making.**
-
----
-
-
+**This project showcases advanced Excel skills in data cleaning, pivot tables, interactive dashboards, and business reporting, which are essential for sales analysis and decision making.**
