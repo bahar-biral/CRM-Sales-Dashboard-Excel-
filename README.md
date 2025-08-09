@@ -44,5 +44,5 @@ The dataset is fully embedded within the Excel file, including sales pipeline an
 ![CRM Sales Dashboard Screenshot](https://raw.githubusercontent.com/bahar-biral/CRM-Sales-Dashboard-Excel-/main/CRM%20Sales%20Analysis%20.png)
 
 
-**This project showcases advanced Excel skills in data cleaning, pivot tables, interactive dashboards, and business reporting, which are essential for sales analysis and decision making.**
+**This project showcases advanced Excel skills in data preparation, pivot tables, interactive dashboards, and business reporting, which are essential for sales analysis and decision making.**
 
