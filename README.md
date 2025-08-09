@@ -1,7 +1,6 @@
 # CRM Sales Dashboard (Excel)
 
 An interactive sales dashboard built in Excel to track quarterly B2B sales performance for a fictional computer hardware company. This project demonstrates data preparation, analysis, and visualization skills using Excel's advanced features.
-
 ---
 
 ## Project Objective
