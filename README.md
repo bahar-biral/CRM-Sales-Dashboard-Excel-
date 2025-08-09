@@ -2,19 +2,16 @@
 
 An interactive sales dashboard built in Excel to track quarterly B2B sales performance for a fictional computer hardware company. This project demonstrates data preparation, analysis, and visualization skills using Excel's advanced features.
 
----
 
 ## Project Objective
 
 The goal of this project is to help **Sales Managers** monitor and analyze their team's sales performance each quarter. By building an interactive dashboard, managers can quickly see opportunities won and lost, compare quarterly trends, and evaluate individual sales agents’ results.
 
----
 
 ## Dataset Used
 
 The dataset is fully embedded within the Excel file, including sales pipeline and sales team details. This allows the dashboard to be fully functional without requiring external data files.
 
----
 
 ## Questions (KPIs) Addressed
 
@@ -23,7 +20,6 @@ The dataset is fully embedded within the Excel file, including sales pipeline an
 - Which sales agents performed best in terms of deals won?  
 - How does sales performance vary by regional office and manager?
 
----
 
 ## Process
 
@@ -42,13 +38,11 @@ The dataset is fully embedded within the Excel file, including sales pipeline an
    - Added slicers for filtering by manager and regional office to allow dynamic exploration.  
    - Arranged visuals for a clean, user-friendly dashboard.
 
----
 
 ## Dashboard Preview
 
 ![CRM Sales Dashboard Screenshot](https://raw.githubusercontent.com/bahar-biral/CRM-Sales-Dashboard-Excel-/main/CRM%20Sales%20Analysis%20.png)
 
 
----
-
 **This project showcases advanced Excel skills in data cleaning, pivot tables, interactive dashboards, and business reporting, which are essential for sales analysis and decision making.**
+
