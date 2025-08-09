@@ -1,6 +1,7 @@
 # CRM Sales Dashboard (Excel)
 
 An interactive sales dashboard built in Excel to track quarterly B2B sales performance for a fictional computer hardware company. This project demonstrates data preparation, analysis, and visualization skills using Excel's advanced features.
+
 ---
 
 ## Project Objective
@@ -45,8 +46,7 @@ The dataset is fully embedded within the Excel file, including sales pipeline an
 
 ## Dashboard Preview
 
-![CRM Sales Dashboard Screenshot]("C:/Users/Lenovo/Downloads/CRM Sales Dashboard Screenshot.png")
-
+![CRM Sales Dashboard Screenshot](./images/CRM_Sales_Dashboard.png)
 
 ---
 
