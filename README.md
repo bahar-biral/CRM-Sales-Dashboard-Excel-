@@ -46,7 +46,7 @@ The dataset is fully embedded within the Excel file, including sales pipeline an
 
 ## Dashboard Preview
 
-![CRM Sales Dashboard Screenshot](./images/CRM_Sales_Dashboard.png)
+![CRM Sales Dashboard Screenshot](./CRM_Sales_Dashboard.png)
 
 ---
 
