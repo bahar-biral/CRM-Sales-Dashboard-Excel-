@@ -18,7 +18,7 @@ The dataset is fully embedded within the Excel file, including **sales pipeline*
 1. **Data Preparation:**  
    - Imported and explored the sales pipeline and sales team data inside Excel.  
    - Joined sales agent information (manager and regional office) using **XLOOKUP**.  
-   - 🧹 Checked for missing values and ensured date formats were consistent.
+   - Checked for missing values and ensured date formats were consistent.
 
 2. **Data Analysis:**  
    - Created pivot tables to summarize won and lost opportunities by quarter.  
